@@ -174,15 +174,6 @@ h2 span {
 .absence_photo {
         background-image: url('/images/finances.png');
     }
-    .webp,
-    .deadline_photo {
-            background-image: url('images/mind_blowing.webp')
-        }
-    
-    .no-webp,
-    .deadline_photo {
-            background-image: url('images/mind_blowing.png')
-        }
 
 .absence__row,
 .deadline__row {
@@ -199,6 +190,15 @@ h2 span {
 .deadline__body {
     margin: 19px 0 140px
 }
+.webp,
+.deadline_photo {
+        background-image: url('images/mind_blowing.webp')
+    }
+
+.no-webp,
+.deadline_photo {
+        background-image: url('images/mind_blowing.png')
+    }
 
 .can__title {
     text-align: center;
