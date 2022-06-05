@@ -3,3 +3,10 @@
 
   [plugins.inputs]
   cloudName = "deia5km3t"
+
+  [[plugins]]
+  package = "."
+
+  [plugins.inputs]
+  cloudName = "deia5km3t"
+  deliveryType = "upload"
