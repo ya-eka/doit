@@ -192,12 +192,12 @@ h2 span {
 }
 .webp,
 .deadline_photo {
-        background-image: url('/images/mind-blowing.webp')
+        background-image: url('/images/mindblowing.webp')
     }
 
 .no-webp,
 .deadline_photo {
-        background-image: url('/images/mind-blowing.png');
+        background-image: url('/images/mindblowing.png');
     }
 
 .can__title {
