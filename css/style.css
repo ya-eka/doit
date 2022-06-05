@@ -110,6 +110,15 @@ h2 span {
     padding: 18px 85px;
     border-radius: 5px
 }
+.webp,
+.done{
+        background-image: url('/images/done.webp')
+    }
+
+.no-webp 
+.done{
+        background-image: url('/images/done.png');
+    }
 
 .start {
     background-color: #000;
@@ -156,6 +165,15 @@ h2 span {
 .deadline_text {
     font: 18px 'Roboto Condensed', sans-serif
 }
+.webp,
+.deadline_photo {
+        background-image: url('images/mind_blowing.webp')
+    }
+
+.no-webp 
+.deadline_photo {
+        background-image: url('images/mind_blowing.png');
+    }
 
 .webp,
 .absence_photo {
@@ -166,6 +184,7 @@ h2 span {
 .absence_photo {
         background-image: url('/images/finances.png');
     }
+
 
 .absence__row,
 .deadline__row {
