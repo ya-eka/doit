@@ -166,16 +166,6 @@ h2 span {
     font: 18px 'Roboto Condensed', sans-serif
 }
 .webp,
-.deadline_photo {
-        background-image: url('images/mind_blowing.webp')
-    }
-
-.no-webp,
-.deadline_photo {
-        background-image: url('images/mind_blowing.png')
-    }
-
-.webp,
 .absence_photo {
         background-image: url('/images/finances.webp')
     }
@@ -184,7 +174,15 @@ h2 span {
 .absence_photo {
         background-image: url('/images/finances.png');
     }
-
+    .webp,
+    .deadline_photo {
+            background-image: url('images/mind_blowing.webp')
+        }
+    
+    .no-webp,
+    .deadline_photo {
+            background-image: url('images/mind_blowing.png')
+        }
 
 .absence__row,
 .deadline__row {
