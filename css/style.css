@@ -170,9 +170,9 @@ h2 span {
         background-image: url('images/mind_blowing.webp')
     }
 
-.no-webp 
+.no-webp,
 .deadline_photo {
-        background-image: url('images/mind_blowing.png');
+        background-image: url('images/mind_blowing.png')
     }
 
 .webp,
